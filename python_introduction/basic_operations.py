@@ -1,6 +1,4 @@
-
-# number1 = int(input("Enter 1st number: "))
-# number2 = int(input("Enter 2nd number: "))
+# Objective: To practice basic arithmetic operations in Python by performing predefined calculations.
 
 number1 = 10
 number2 = 5
