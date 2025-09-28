@@ -13,12 +13,12 @@ def main():
 
         if choice == '1':
             # Prompt for and add an item
-            list_item = input("Enter item name to add to the list: ")
+            list_item = input("Enter the item to add: ")
             shopping_list.append(list_item)
             print()
         elif choice == '2':
             # Prompt for and remove an item
-            list_item = input("Enter item name to remove on the list: ")
+            list_item = input("Enter the item to remove: ")
             shopping_list.remove(list_item)
             print()
         elif choice == '3':
