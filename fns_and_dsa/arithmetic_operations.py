@@ -5,7 +5,7 @@ def perform_operation(num1, num2, operation):
         case 'subtract':
             return num1 - num2
         case 'multiply':
-            return num2 * num1
+            return num1 * num2
         case 'divide':
             if num2 == 0:
                 print("you cannot divide by zero")
